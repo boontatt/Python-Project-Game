@@ -1,0 +1,35 @@
+Our games require a module called pygame in order to run the program.
+==========================================================================
+
+HOW TO INSTALL PYGAME
+
+Step 1: Install pygame
+-To install Pygame, open the command prompt and give the command as shown below:
+pip install pygame
+-Pygame is successfully installed.
+
+Step 2: Check Whether Pygame is working
+-Open a new terminal and run python by typing "python".
+-Import the Pygame library by typing "import pygame" to check whether it is working fine or not in our system. 
+-If the library is imported successfully without error means that pygame is successfully installed.
+
+==========================================================================
+There will be four python files in the folder. 
+Select the main.py file to run the program. 
+
+MAIN MENU
+[left click] - interact with button 
+
+TREX RUN
+-You can play with a keyboard or a mouse.
+[w]/[space]/[left click] - jump
+[s] - direct landing
+[esc] - exit to main menu
+
+FLAPPY BIRD
+[left click] - fly
+[esc] - exit to main menu
+
+==========================================================================
+
+If you are facing any issue with your game, feel free to contact us so that we can help you out.
